@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/starlight/static/css/main.f855e6bc.css",
-    "main.js": "/starlight/static/js/main.607a1b8c.js",
+    "main.css": "/starlight/static/css/main.15cf662b.css",
+    "main.js": "/starlight/static/js/main.28094238.js",
     "static/js/453.fdb73efe.chunk.js": "/starlight/static/js/453.fdb73efe.chunk.js",
-    "static/media/logo.svg": "/starlight/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/starlight/static/media/logo.fb71cbd1a44aa0e6cb0998a6110a6e2a.svg",
     "index.html": "/starlight/index.html",
-    "main.f855e6bc.css.map": "/starlight/static/css/main.f855e6bc.css.map",
-    "main.607a1b8c.js.map": "/starlight/static/js/main.607a1b8c.js.map",
+    "main.15cf662b.css.map": "/starlight/static/css/main.15cf662b.css.map",
+    "main.28094238.js.map": "/starlight/static/js/main.28094238.js.map",
     "453.fdb73efe.chunk.js.map": "/starlight/static/js/453.fdb73efe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.607a1b8c.js"
+    "static/css/main.15cf662b.css",
+    "static/js/main.28094238.js"
   ]
 }

@@ -1,0 +1,12 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<path d="
+M 320 150.5 q 100 -200 200 0 M 520 150 q 40 75 0 150 M 320 150 q -40 75 0 150 M 320 300 q 100 200 200 0 
+M 320 300 q 100 -200 200 0  M 520 300 q 40 75 0 150 M 320 300 q -40 75 0 150 M 320 449.5 q 100 200 200 0 
+" stroke="gold" fill="none" stroke-width="15"/>
+<animateTransform attributeName="transform" begin="0s" dur="10s" type="rotate" from="0 0 0" to="360 0 0" repeatCount="indefinite" />
+<text x="240" y="540" fill="gold" stroke="#282c34" font-size="55" font-family="sans-serif">
+<animateTransform  attributeName="transform" begin="0s" dur="10s" type="rotate" from="0 400 300" to="-360 400 300" repeatCount="indefinite" />
+S O F I T E L</text>
+<text x="300" y="580" fill="gold" stroke="#282c34" font-size="25" font-family="sans-serif">
+<animateTransform attributeName="transform" begin="0s" dur="10s" type="rotate" from="0 400 300" to="-360 400 300" repeatCount="indefinite" />
+LUXURY HOTELS</text></svg>
