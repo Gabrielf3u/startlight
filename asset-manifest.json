@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/starlight/static/css/main.15cf662b.css",
-    "main.js": "/starlight/static/js/main.28094238.js",
-    "static/js/453.fdb73efe.chunk.js": "/starlight/static/js/453.fdb73efe.chunk.js",
-    "static/media/logo.svg": "/starlight/static/media/logo.fb71cbd1a44aa0e6cb0998a6110a6e2a.svg",
-    "index.html": "/starlight/index.html",
-    "main.15cf662b.css.map": "/starlight/static/css/main.15cf662b.css.map",
-    "main.28094238.js.map": "/starlight/static/js/main.28094238.js.map",
-    "453.fdb73efe.chunk.js.map": "/starlight/static/js/453.fdb73efe.chunk.js.map"
+    "main.css": "/startlight/static/css/main.edc148c1.css",
+    "main.js": "/startlight/static/js/main.188728cc.js",
+    "static/js/453.fdb73efe.chunk.js": "/startlight/static/js/453.fdb73efe.chunk.js",
+    "static/media/BarryAndSons.png": "/startlight/static/media/BarryAndSons.7aace54d2e9a1fda4a02.png",
+    "static/media/BrownBrothers.jpg": "/startlight/static/media/BrownBrothers.a72612b8bda696726ec0.jpg",
+    "static/media/Ricossa.jpg": "/startlight/static/media/Ricossa.67422fb8e8e895b08837.jpg",
+    "static/media/PeterLehmann.jpg": "/startlight/static/media/PeterLehmann.7a20d869feb9323588bb.jpg",
+    "static/media/WitchesFalls.jpg": "/startlight/static/media/WitchesFalls.3b0f0384024262086137.jpg",
+    "static/media/logo.svg": "/startlight/static/media/logo.356b0be3fdd3f200a3273d0025746e38.svg",
+    "index.html": "/startlight/index.html",
+    "main.edc148c1.css.map": "/startlight/static/css/main.edc148c1.css.map",
+    "main.188728cc.js.map": "/startlight/static/js/main.188728cc.js.map",
+    "453.fdb73efe.chunk.js.map": "/startlight/static/js/453.fdb73efe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15cf662b.css",
-    "static/js/main.28094238.js"
+    "static/css/main.edc148c1.css",
+    "static/js/main.188728cc.js"
   ]
 }
