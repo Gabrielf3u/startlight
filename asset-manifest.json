@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/startlight/static/css/main.edc148c1.css",
-    "main.js": "/startlight/static/js/main.188728cc.js",
+    "main.js": "/startlight/static/js/main.0372dbb8.js",
     "static/js/453.fdb73efe.chunk.js": "/startlight/static/js/453.fdb73efe.chunk.js",
     "static/media/BarryAndSons.png": "/startlight/static/media/BarryAndSons.7aace54d2e9a1fda4a02.png",
     "static/media/BrownBrothers.jpg": "/startlight/static/media/BrownBrothers.a72612b8bda696726ec0.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/startlight/static/media/logo.356b0be3fdd3f200a3273d0025746e38.svg",
     "index.html": "/startlight/index.html",
     "main.edc148c1.css.map": "/startlight/static/css/main.edc148c1.css.map",
-    "main.188728cc.js.map": "/startlight/static/js/main.188728cc.js.map",
+    "main.0372dbb8.js.map": "/startlight/static/js/main.0372dbb8.js.map",
     "453.fdb73efe.chunk.js.map": "/startlight/static/js/453.fdb73efe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edc148c1.css",
-    "static/js/main.188728cc.js"
+    "static/js/main.0372dbb8.js"
   ]
 }
