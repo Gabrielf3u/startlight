@@ -1,0 +1,16 @@
+<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="40" width="250" height="5" style="stroke:gold;fill:gold;">
+    <animateMotion
+      path="M0, 100 0, 0 100,0"
+      begin="0s"
+      dur="10s"
+      repeatCount="indefinite" />
+  </rect>
+  <text x="5" y="30" fill="none" stroke="gold" font-size="35">Softiel Banquets
+    <animateMotion
+      path="M0, 100 0, 0 100,0"
+      begin="0s"
+      dur="10s"
+      repeatCount="indefinite" />
+</text>
+</svg>
