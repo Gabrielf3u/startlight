@@ -96,7 +96,7 @@ function App() {
     <TabItem label={cItem.food.course}>
       <p><div><div id="logoText" className='lgText'><b>{cItem.food.chef}</b></div> <div className='smText'>Meal: {cItem.food.name}</div></div></p>
       <div className='polaroid'>
-        <img id="borderRadius" src={cItem.wine.picture} className="App-picture" alt="Picture of Wine" /> 
+        <img id="borderRadius" src={cItem.wine.picture} className="App-picture" alt="Wine" /> 
         <div className="container">
           <p><b>{cItem.wine.name}</b></p>
           <p>Notes: {cItem.wine.notes}</p>
